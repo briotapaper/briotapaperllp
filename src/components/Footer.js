@@ -1,7 +1,9 @@
 import React from 'react'
 import {Link} from 'gatsby'
 import SocialCard from './SocialCard/SocialCard';
-import './Footer.css'
+import './Footer.css';
+import '../css/font.css';
+
 
 export default ({data}) => (
   <div>    
@@ -45,7 +47,7 @@ export default ({data}) => (
                 </div>
                 <div className="clr"></div>
               </div>
-                  
+
               </div>
     
             </div>
