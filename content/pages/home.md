@@ -1,7 +1,7 @@
 ---
 template: HomePage
 <<<<<<< HEAD
-slug: /
+slug: ''
 title: HomePage 
 =======
 slug: ''
