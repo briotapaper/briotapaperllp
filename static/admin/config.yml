@@ -20,7 +20,7 @@ collections: # A list of collections the CMS should be able to edit
   - name: 'pages'
     label: 'Page'
     delete: false # Prevent users from deleting documents in this collection
-    editor:
+    editor: {}
     preview: true
     files:
       - file: 'content/pages/contact.md'
@@ -459,8 +459,8 @@ collections: # A list of collections the CMS should be able to edit
 
   - name: infoPages
     label: Info Page
-    editor:
-      preview: true
+    editor: {}
+    preview: true
     folder: content/infoPages
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     create: true # Allow users to create new documents in this collection
@@ -497,7 +497,7 @@ collections: # A list of collections the CMS should be able to edit
 
   - name: posts
     label: Post
-    editor:
+    editor: {}
     preview: true
     folder: content/posts
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
@@ -552,7 +552,7 @@ collections: # A list of collections the CMS should be able to edit
 
   - name: postCategories
     label: Post Category
-    editor:
+    editor: {}
     preview: false
     folder: content/postCategories
     slug: '{{slug}}'
@@ -587,9 +587,9 @@ collections: # A list of collections the CMS should be able to edit
             }
           - { label: Noindex, name: noindex, widget: boolean, required: false }
 
-- name: services
+  - name: services
     label: Services
-    editor:
+    editor: {}
     preview: true
     folder: content/services
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
@@ -642,9 +642,9 @@ collections: # A list of collections the CMS should be able to edit
             }
           - { label: Noindex, name: noindex, widget: boolean, required: false }
 
-  - name: srtvicesCategories
+  - name: servicesCategories
     label: Services Category
-    editor:
+    editor: {}
     preview: false
     folder: content/servicesCategories
     slug: '{{slug}}'
@@ -683,14 +683,14 @@ collections: # A list of collections the CMS should be able to edit
   - name: 'settings'
     label: 'Settings'
     delete: false # Prevent users from deleting documents in this collection
-    editor:
+    editor: {}
     preview: false
     files:
       - file: 'content/settings/global.yml'
         label: 'Global Settings'
         name: 'global-settings'
         fields:
-          - { label: SiteTitle, name: siteTitle, widget: string }s
+          - { label: SiteTitle, name: siteTitle, widget: string }
           - {
               label: Site Description,
               name: siteDescription,
@@ -725,7 +725,7 @@ collections: # A list of collections the CMS should be able to edit
 
   - name: products
     label: Product
-    editor: 
+    editor: {}
     preview: true
     folder: content/products
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
@@ -780,7 +780,7 @@ collections: # A list of collections the CMS should be able to edit
 
   - name: productsCategories
     label: Products Category
-    editor:
+    editor: {}
     preview: false
     folder: content/productsCategories
     slug: '{{slug}}'
