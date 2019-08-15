@@ -720,7 +720,7 @@ collections: # A list of collections the CMS should be able to edit
               widget: string,
               required: false,
             }
-      - file: 'content/settings/global-settings.md'
+      - file: 'content/settings/global-setting.md'
         label: 'Contact Settings'
         name: 'contact-settings'
         fields: # The fields each document in this collection have
