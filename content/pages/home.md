@@ -1,17 +1,7 @@
 ---
 template: HomePage
-<<<<<<< HEAD
-slug: /
+slug: home
 title: Home Page 
-=======
-<<<<<<< HEAD
-slug: home
-title: HomePage 
-=======
-slug: home
-title: Home
->>>>>>> 4cb8a50e339df5070a0283d14b92feb473820086
->>>>>>> 1894834b4c6e1c8257ec47189d2616bf83286d32
 featuredImage: 'https://ucarecdn.com/df0dc650-6938-412f-aefb-2019d2349e13/'
 subtitle: This is the home page subtitle.
 section1: >-
