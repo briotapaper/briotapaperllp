@@ -48,6 +48,9 @@ gallery:
   - alt: Fastest Delivery
     image: 'https://ucarecdn.com/ef4cb17a-289b-438f-91f7-a2c3e8616033/'
     title: Transportation services
+  - alt: logo
+    image: 'https://ucarecdn.com/74afc6e0-94b7-453c-9c71-72de63a03e8d/'
+    title: logo
 meta:
   description: This is a meta description.
   title: Home Page
