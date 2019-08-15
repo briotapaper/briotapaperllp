@@ -1,7 +1,7 @@
 ---
 template: HomePage
-slug: ''
-title: Home 
+slug: /
+title: HomePage 
 featuredImage: 'https://ucarecdn.com/df0dc650-6938-412f-aefb-2019d2349e13/'
 subtitle: This is the home page subtitle.
 section1: >-
@@ -48,5 +48,5 @@ gallery:
     title: Yellow Ice Cream
 meta:
   description: This is a meta description.
-  title: Components Page
+  title: Home Page
 ---
