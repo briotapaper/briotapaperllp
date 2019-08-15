@@ -1,6 +1,6 @@
 import React from 'react';
 import {FaFacebookSquare , FaInstagram , FaLinkedin , FaYoutube , FaMobileAlt  , FaEnvelope } from 'react-icons/fa';
-
+import '../../../static/fonts/css/all.css';
 import './SocialCard.css';
 
 const SocialCard = ({data}) => {
