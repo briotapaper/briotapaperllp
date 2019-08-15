@@ -277,7 +277,7 @@ collections: # A list of collections the CMS should be able to edit
                 }
 
       - file: 'content/pages/home.md'
-        label: 'Home Page'
+        label: 'HomesPage'
         name: 'home-page'
         fields:
           - {
