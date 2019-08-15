@@ -1,10 +1,10 @@
 ---
 template: HomePage
 <<<<<<< HEAD
-slug: /
+slug: 
 title: HomePage 
 =======
-slug: /
+slug: 
 title: Home
 >>>>>>> 4cb8a50e339df5070a0283d14b92feb473820086
 featuredImage: 'https://ucarecdn.com/df0dc650-6938-412f-aefb-2019d2349e13/'
