@@ -78,6 +78,7 @@ export default ({ children, meta, title }) => {
               {title}
               <link href="https://ucarecdn.com" rel="preconnect" crossorigin />
               <link rel="dns-prefetch" href="https://ucarecdn.com" />
+              <link rel="shortcut icon" href="/icons/icon-32x32.png"></link>
               {/* Add font link tags here */}
             </Helmet>
 
