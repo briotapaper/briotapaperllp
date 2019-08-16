@@ -3,8 +3,9 @@
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
-  height: 4rem;
-  width: 4rem;
+  height: 7rem;
+  width: 20rem;
   align-items: center;
   justify-content: center;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }

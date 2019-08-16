@@ -2,9 +2,9 @@ const postcssPresetEnv = require('postcss-preset-env')
 
 module.exports = {
   siteMetadata: {
-    title: 'Pappermill',
+    title: 'BRIOTA',
     siteUrl: 'http://gatsby-site-cms.netlify.com'
-  },
+  },  
   plugins: [
     'gatsby-plugin-react-helmet',
     'gatsby-transformer-yaml',
@@ -44,8 +44,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'pappermill',
-        short_name: 'pappermill',
+        name: 'BRIOTA',
+        short_name: 'BRIOTA',
         start_url: '/',
         background_color: '#00C2BD',
         theme_color: '#00C2BD',
