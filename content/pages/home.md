@@ -51,13 +51,6 @@ gallery:
   - alt: logo
     image: 'https://ucarecdn.com/74afc6e0-94b7-453c-9c71-72de63a03e8d/'
     title: logo
-section3: >-
-  ## This is a section 3
-
-  A sem vel nec sodales mi vivamus senectus sed potenti a parturient nascetur
-  tincidunt nisi pulvinar rhoncus a. Risus imperdiet taciti suspendisse facilisi
-  a per metus cubilia varius a nostra adipiscing amet ultrices quisque ac mi a.
-  
 meta:
   description: This is a meta description.
   title: Home Page

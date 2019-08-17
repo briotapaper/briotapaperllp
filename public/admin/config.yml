@@ -277,7 +277,7 @@ collections: # A list of collections the CMS should be able to edit
                 }
 
       - file: 'content/pages/home.md'
-        label: 'HomesPage'
+        label: 'Home Page'
         name: 'home-page'
         fields:
           - {
@@ -295,12 +295,6 @@ collections: # A list of collections the CMS should be able to edit
           - { name: video, label: video, widget: file }
           - { name: videoPoster, label: videoPoster, widget: image }
           - { label: videoTitle, name: videoTitle, widget: string }
-          - label: 'accordion'
-            name: 'accordion'
-            widget: 'list'
-            fields:
-              - { name: title, label: title, widget: string, default: '' }
-              - { name: description, label: description, widget: string }
           - label: 'Gallery'
             name: 'gallery'
             widget: 'list'
