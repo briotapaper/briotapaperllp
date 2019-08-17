@@ -76,23 +76,30 @@ export default class Gallery extends Component {
       <Fragment>
         {images &&
           images.length > 0 && (
-            <div className="Gallery">
+            <div className="container">
+                <div className='row Gallery' >
               {images.map((image, index) => (
-                <figure
-                  className="Gallery--Item"
-                  key={_kebabCase(image.alt) + '-' + index}
-                  onClick={() => this.isOpen(true, index)}
-                >
-                  <div>
-                    <Image
-                      resolutions="small"
-                      src={image.image}
-                      alt={image.alt}
-                    />
-                  </div>
-                  {image.title && <figcaption>{image.title}</figcaption>}
-                </figure>
+              
+                    <div className='col-md-5 col-lg-3 Gallery--Item'>
+                    <figure
+                        key={_kebabCase(image.alt) + '-' + index}
+                        onClick={() => this.isOpen(true, index)}
+                      >
+                       
+                          <Image
+                            resolutions="small"
+                            src={image.image}
+                            alt={image.alt}
+                          />
+                         
+                       {image.title && 
+                       <figcaption
+                        className="figcaptions"
+                       >{image.title}</figcaption>}
+                     </figure>
+                    </div>
               ))}
+                </div>
             </div>
           )}
         {this.state.loaded &&

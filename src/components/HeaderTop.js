@@ -8,7 +8,7 @@ const HeaderTop = ({data}) => {
     return(
         <div className='container header-top' >
         <div class="row">
-            <div class="col-md-4" id='social'>
+            <div class="col-md-3" id='social'>
                 <a href={data.title} ><FaFacebookSquare /></a> 
                 <a href={data.section2} > <FaInstagram/></a> 
                 <a href={data.subtitle} ><FaLinkedin/></a> 
@@ -20,10 +20,10 @@ const HeaderTop = ({data}) => {
                         <div className='   col-xs-11 '><label>{data.phone}</label> </div>
                     </div>
             </div>
-            <div class="col-md-4 icons" id='email'>
+            <div class="col-md-5 icons" id='email'>
                 <div className='row'>
-                        <div className=' col-xs-1 '>  <FaEnvelope/> </div>
-                        <div className=' col-xs-11  '> <label>{data.email}  </label>  </div>
+                        <div className=' col-xs-1'>  <FaEnvelope/> </div>
+                        <div className=' col-xs-11 '> <label>{data.email}  </label>  </div>
                 </div>                       
             </div>
         </div>
