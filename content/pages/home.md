@@ -52,18 +52,12 @@ gallery:
     image: 'https://ucarecdn.com/74afc6e0-94b7-453c-9c71-72de63a03e8d/'
     title: logo
 section3: >-
-  ## This is a container home
+  ## This is a section 3
+
 
   A sem vel nec sodales mi vivamus senectus sed potenti a parturient nascetur
   tincidunt nisi pulvinar rhoncus a. Risus imperdiet taciti suspendisse facilisi
   a per metus cubilia varius a nostra adipiscing amet ultrices quisque ac mi a.
-
-
-  [Dictumst a ultrices mi]() a dignissim ad fermentum eget a nam et a blandit
-  scelerisque. Taciti lorem tempor quam vestibulum dis habitasse vestibulum diam
-  vel est ut proin dis auctor. Suscipit sceler isque orci magna interdum vel
-  bibendum duis netus a consectetur dui magnis ac aliquet sem posuere tincidunt
-  vestibulum.
 meta:
   description: This is a meta description.
   title: Home Page
