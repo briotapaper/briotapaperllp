@@ -60,14 +60,14 @@ export const HomePageTemplate = ({
 
     <section className="section">
       <div className="container">
-        <Content source={section} />
+        <Accordion items={section3} />
       </div>
     </section>
 
     <section className="section">
       <div className="container">
         <Popup>
-          <Content source={section3} />
+          <Content source={section1} />
         </Popup>
       </div>
     </section>
