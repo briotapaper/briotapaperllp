@@ -66,15 +66,10 @@ accordion:
   - description: Taciti lorem tempor quam vestibulum dis habitasse
     title: Taciti lorem
 gallery:
-  - alt: yellow rope image
-    image: 'https://ucarecdn.com/277cdf82-24aa-4d80-8169-bb46f4cd319d/'
-    title: Yellow Rope
-  - alt: umbrellas
-    image: 'https://ucarecdn.com/5da63204-4ff0-4235-aac3-852921d7c632/'
-    title: a bunch of umbrellas
-  - alt: yellow ice cream
-    image: 'https://ucarecdn.com/83485d70-1552-4c97-b237-22330fb56a1e/'
-    title: Yellow Ice Cream
+  - image: >-
+      https://ucarecdn.com/87265b02-9cbf-4a74-b0c3-782405ea7828/-/crop/939x765/85,0/-/preview/
+  - image: 'https://ucarecdn.com/632fcc60-b8d8-4d38-bc3e-a95c15cd0752/'
+  - image: 'https://ucarecdn.com/90593bd5-143c-40d9-b576-081d1d9a83b8/'
 meta:
   description: This is a meta description.
   title: About Page
