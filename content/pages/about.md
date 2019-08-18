@@ -2,7 +2,7 @@
 template: AboutPage
 slug: about
 title: .
-featuredImage: 'https://ucarecdn.com/4714d318-d0ec-4ca5-b4c8-31845f3fdb33/'
+featuredImage: 'https://ucarecdn.com/1792a9d7-cddf-489c-af18-fbbd92efd143/'
 subtitle: .
 section1: >-
   ## COMPANY PROFILE
