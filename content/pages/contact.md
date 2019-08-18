@@ -13,7 +13,7 @@ address: |-
 phone: 0987 123 456
 email: briotapaper@gmail.com
 locations:
-  - {}
+  - mapLink: 'https://goo.gl/maps/Up5JERWknWsFDsXy9'
 meta:
   description: This is a meta description.
   title: Contact Page
