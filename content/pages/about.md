@@ -4,29 +4,11 @@ slug: about
 title: About Us
 featuredImage: 'https://ucarecdn.com/df0dc650-6938-412f-aefb-2019d2349e13/'
 subtitle: This is the about page subtitle.
-section1: >-
-  ## This is a container about
-
-  A sem vel nec sodales mi vivamus senectus sed potenti a parturient nascetur
-  tincidunt nisi pulvinar rhoncus a. Risus imperdiet taciti suspendisse facilisi
-  a per metus cubilia varius a nostra adipiscing amet ultrices quisque ac mi a.
-
-
-  [Dictumst a ultrices mi]() a dignissim ad fermentum eget a nam et a blandit
-  scelerisque. Taciti lorem tempor quam vestibulum dis habitasse vestibulum diam
-  vel est ut proin dis auctor. Suscipit sceler isque orci magna interdum vel
-  bibendum duis netus a consectetur dui magnis ac aliquet sem posuere tincidunt
-  vestibulum.
-section2: |-
-  ## You can use videos, images and text.
-
-  <iframe width="560" height="315"
-  src="https://www.youtube.com/embed/Js00yn142ic" frameborder="0"
-  allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
+section1: "## COMPANY PROFILE\n\nBriota Paper Mill Llp. has been established in the year 2018 with an objective to cater to the market need for recycled paper. We have always strived to bring quality consciousness to the Corrugated Packaging Industry.\r\n\n\rFrom a moderate beginning to today’s stage,Briota has emerged as a strong force in Paper and Packaging industries. With state of the art technology at its disposal Briota Papers today is the most preferred partner to clients across the globe. We are now capable of producing 60 GSM to 150 GSM and 12 BF to 18 BF High Quality MG Craft Paper locally in India and cater to global audience.\r\n\n\rThe promoters of Briota Papers believe that business has to be in line with customer needs and aspirations. Our strength has been our ability to cater to customers requirements through our cutting edge and latest technology at the quickest possible Turn Around Time. While keeping pace with growing demands of the market, Briota has never ignored its philosophy of giving back to the nature. We are proud to be one of the most technically advanced yet Eco-friendly production houses in the country and hence preserving mother nature for future generations.\r\n\n\r\n\n* **MISSION\r**\n\nOur core mission is to emphasize and live the dream of Make In India initiative for that we need to focus on increased productivity, constant reinvention of our methods and technology enhancements.\r\n\n\r\n\n* **VISION\r**\n\nOur aspiration is to become a leading brand in Paper manufacturers. For this, we focused on skilled manpower, futuristic managerial and administrative methods and increased energy in the R&D division.\r\n\n\r\n\n**WHAT WE OFFER?**\n\nWe offers 12 BF to 18 BF Craft Paper with 60 GSM to 150 GSM  Hight Quality MG Craft Paper"
+section2: '##'
 video: 'https://ucarecdn.com/e6979298-66d6-4245-b496-6e5a5d507135/'
 videoPoster: 'https://ucarecdn.com/69ba14a8-6481-4671-abb6-0e6f0d9c3e46/'
-videoTitle: Also background videos, with poster image & title overlay.
+videoTitle: 'Also background videos, with poster image & title overlay.'
 accordion:
   - description: Taciti lorem tempor quam vestibulum dis habitasse
     title: Taciti lorem
@@ -50,3 +32,4 @@ meta:
   description: This is a meta description.
   title: About Page
 ---
+
