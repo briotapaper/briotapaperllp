@@ -2,7 +2,7 @@
 template: HomePage
 slug: ''
 title: Home Page
-featuredImage: 'https://ucarecdn.com/df0dc650-6938-412f-aefb-2019d2349e13/'
+featuredImage: 'https://ucarecdn.com/ff8079f4-b520-4b94-8a35-95fe716749b3/'
 subtitle: This is the home page subtitle.
 section1: >-
   ## This is a container home
