@@ -13,7 +13,9 @@ address: |-
 phone: '9712900243 / 8238678910 '
 email: briotapaper@gmail.com
 locations:
-  - mapLink: 'https://goo.gl/maps/Up5JERWknWsFDsXy9'
+  - mapLink: >-
+      <iframe src="https://www.google.com/maps/embed?pb=" width="600"
+      height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 meta:
   description: ''
   title: Contact Page
