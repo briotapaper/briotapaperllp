@@ -5,52 +5,27 @@ title: Home Page
 featuredImage: 'https://ucarecdn.com/ff8079f4-b520-4b94-8a35-95fe716749b3/'
 subtitle: This is the home page subtitle.
 section1: >-
-  ## This is a container home
-
-  A sem vel nec sodales mi vivamus senectus sed potenti a parturient nascetur
-  tincidunt nisi pulvinar rhoncus a. Risus imperdiet taciti suspendisse facilisi
-  a per metus cubilia varius a nostra adipiscing amet ultrices quisque ac mi a.
+  ## WHO WE ARE
 
 
-  [Dictumst a ultrices mi]() a dignissim ad fermentum eget a nam et a blandit
-  scelerisque. Taciti lorem tempor quam vestibulum dis habitasse vestibulum diam
-  vel est ut proin dis auctor. Suscipit sceler isque orci magna interdum vel
-  bibendum duis netus a consectetur dui magnis ac aliquet sem posuere tincidunt
-  vestibulum.
+  WELCOME TO BRIOTA PAPER MILL LLP.
+
+
+  Briota Paper Mill Llp. has been established in the year 2018 with an objective
+  to cater to the market need for recycled paper. We have always strived to
+  bring quality consciousness to the Corrugated Packaging Industry.
 section2: |-
   ## You can use videos, images and text.
 
   <iframe width="560" height="315"
   src="https://www.youtube.com/embed/Js00yn142ic" frameborder="0"
   allow="autoplay; encrypted-media" allowfullscreen></iframe>
-video: 'https://ucarecdn.com/e6979298-66d6-4245-b496-6e5a5d507135/'
-videoPoster: 'https://ucarecdn.com/69ba14a8-6481-4671-abb6-0e6f0d9c3e46/'
+video: >-
+  https://ucarecdn.com/a9047288-bfd0-4e04-8624-a60f246d85b0/-/crop/996x591/0,27/-/preview/
+videoPoster: 'https://ucarecdn.com/3234d9b4-9a9b-4e62-8738-34c86e34c391/'
 videoTitle: 'Also background videos, with poster image & title overlay.'
 gallery:
-  - alt: Fastest Delivery
-    image: 'https://ucarecdn.com/ef4cb17a-289b-438f-91f7-a2c3e8616033/'
-    title: Transportation services
-  - alt: logo
-    image: 'https://ucarecdn.com/74afc6e0-94b7-453c-9c71-72de63a03e8d/'
-    title: logo
-  - alt: Fastest Delivery
-    image: 'https://ucarecdn.com/ef4cb17a-289b-438f-91f7-a2c3e8616033/'
-    title: Transportation services
-  - alt: logo
-    image: 'https://ucarecdn.com/74afc6e0-94b7-453c-9c71-72de63a03e8d/'
-    title: logo
-  - alt: Fastest Delivery
-    image: 'https://ucarecdn.com/ef4cb17a-289b-438f-91f7-a2c3e8616033/'
-    title: Transportation services
-  - alt: logo
-    image: 'https://ucarecdn.com/74afc6e0-94b7-453c-9c71-72de63a03e8d/'
-    title: logo
-  - alt: Fastest Delivery
-    image: 'https://ucarecdn.com/ef4cb17a-289b-438f-91f7-a2c3e8616033/'
-    title: Transportation services
-  - alt: logo
-    image: 'https://ucarecdn.com/74afc6e0-94b7-453c-9c71-72de63a03e8d/'
-    title: logo
+  - {}
 meta:
   description: This is a meta description.
   title: Home Page
