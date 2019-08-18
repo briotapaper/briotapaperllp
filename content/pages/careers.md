@@ -1,27 +1,23 @@
 ---
 template: CareersPage
 slug: careers
-title: Careers 
-featuredImage: https://ucarecdn.com/e22a858a-b420-47af-99f6-ed54b6860333/
-subtitle: This is the careers page subtitle.
-address: '404 James St, Burleigh Heads QLD 4220'
-phone: 0987 123 456
-email: example@example.com
+title: Careers
+featuredImage: 'https://ucarecdn.com/e22a858a-b420-47af-99f6-ed54b6860333/'
+subtitle: .
+address: '8-A National Highway Gala - Sapar Road Opp. Segam Vitrified, Gujarat 363630'
+phone: +91 9099999727
+email: briotapaper@gmail.com
 locations:
-  - lat: '-27.9654732'
-    lng: '153.2432449'
-    mapLink: ''
+  - lat: ''
+    lng: ''
+    mapLink: >-
+      <iframe
+      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3673.1340181812966!2d70.863557!3d22.982098800000003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x395a21608dd79883%3A0x34679be0da98a57a!2sBRIOTA+PAPER+LLP!5e0!3m2!1sen!2sin!4v1566132149212!5m2!1sen!2sin"
+      width="600" height="450" frameborder="0" style="border:0"
+      allowfullscreen></iframe>
 meta:
   description: This is a meta description.
+  noindex: false
   title: Careers Page
 ---
-
-# Example contact form
-
-This form is setup to use Netlify's form handling:
-
-- the form action is set to the current absolute url: `action: '/contact/'`
-- a name attribute is sent with the form's data `'form-name': 'Contact'`
-- netlify data attributes are added to the form `data-netlify data-netlify-honeypot`
-
-Find out more in the [Netlify Docs](https://www.netlify.com/docs/form-handling/).
+# BRIOTA PAPER LLP.
