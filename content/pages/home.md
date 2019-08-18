@@ -1,19 +1,19 @@
 ---
 template: HomePage
 slug: ''
-title: Home Page
+title: .
 featuredImage: 'https://ucarecdn.com/ff8079f4-b520-4b94-8a35-95fe716749b3/'
-subtitle: This is the home page subtitle.
+subtitle: .
 section1: >-
   ## WHO WE ARE
 
 
-  WELCOME TO BRIOTA PAPER MILL LLP.
+  WELCOME TO BRIOTA PAPER LLP.
 
 
-  Briota Paper Mill Llp. has been established in the year 2018 with an objective
-  to cater to the market need for recycled paper. We have always strived to
-  bring quality consciousness to the Corrugated Packaging Industry.
+  Briota Paper Llp. has been established in the year 2018 with an objective to
+  cater to the market need for recycled paper. We have always strived to bring
+  quality consciousness to the Corrugated Packaging Industry.
 section2: |-
   ## You can use videos, images and text.
 
