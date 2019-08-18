@@ -25,7 +25,9 @@ video: >-
 videoPoster: 'https://ucarecdn.com/3234d9b4-9a9b-4e62-8738-34c86e34c391/'
 videoTitle: 'Also background videos, with poster image & title overlay.'
 gallery:
-  - {}
+  - image: 'https://ucarecdn.com/d2423ef8-b85b-4792-8c0f-ab3ef27bd23f/'
+  - image: 'https://ucarecdn.com/8a7fa56b-d5a0-4998-90d9-46172e670edc/'
+  - image: 'https://ucarecdn.com/5ea0b524-c1bd-44e9-b6b4-b81b4aeee878/'
 meta:
   description: This is a meta description.
   title: Home Page
