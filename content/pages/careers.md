@@ -2,7 +2,7 @@
 template: CareersPage
 slug: careers
 title: Careers
-featuredImage: 'https://ucarecdn.com/e22a858a-b420-47af-99f6-ed54b6860333/'
+featuredImage: 'https://ucarecdn.com/08e1b287-bb1d-4d12-935d-ad1a150ae7d5/'
 subtitle: .
 address: '8-A National Highway Gala - Sapar Road Opp. Segam Vitrified, Gujarat 363630'
 phone: +91 9099999727
