@@ -22,7 +22,7 @@ section2: |-
   allow="autoplay; encrypted-media" allowfullscreen></iframe>
 video: >-
   https://ucarecdn.com/a9047288-bfd0-4e04-8624-a60f246d85b0/-/crop/996x591/0,27/-/preview/
-videoPoster: 'https://ucarecdn.com/3234d9b4-9a9b-4e62-8738-34c86e34c391/'
+videoPoster: 'https://ucarecdn.com/aed9f0a1-3df6-4a50-a9f3-5663fb074eda/'
 videoTitle: 'Also background videos, with poster image & title overlay.'
 gallery:
   - image: 'https://ucarecdn.com/d2423ef8-b85b-4792-8c0f-ab3ef27bd23f/'
